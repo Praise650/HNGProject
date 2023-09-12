@@ -24,8 +24,8 @@ class ProfileFactory extends Factory
             "current_day" => $current_day,
             "utc_time" => $utc_time,
             "track" => 'Backend',
-            "github_file_url" => 'https://github.com/praise650/repo/blob/main/file_name.ext',
-            "github_repo_url" => "https://github.com/praise650/repo",
+            "github_file_url" => 'https://github.com/Praise650/HNGProject/blob/master/hngstage_one/routes/api.php',
+            "github_repo_url" => "https://github.com/Praise650/HNGProject/tree/master/hngstage_one",
             "status_code" => 200,
         ];
     }
